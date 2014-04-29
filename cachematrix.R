@@ -1,4 +1,4 @@
-## The next pair of functions permiten create the inverse of a matrix stored in cache.
+## The next pair of functions let allow to create the inverse of a matrix stored in cache.
 
 ## This function creates a special "matrix" object that can cache its inverse
 
